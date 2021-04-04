@@ -2320,6 +2320,14 @@ projects:
     pypi_id: pyflux
     github_id: RJT1990/pyflux
     category: time-series-data
+  - name: TimeSynth
+    pypi_id: timesynth
+    github_id: TimeSynth/TimeSynth
+    category: time-series-data
+  - name: Cesium
+    pypi_id: cesium
+    github_id: cesium-ml/cesium
+    category: time-series-data
   - name: tsfresh
     pypi_id: tsfresh
     github_id: blue-yonder/tsfresh
