@@ -2766,6 +2766,11 @@ projects:
     pypi_id: great_expectations
     conda_id: conda-forge/great-expectations
     category: data-pipelines
+  - name: Pandera
+    github_id: pandera-dev/pandera
+    pypi_id: pandera
+    conda_id: conda-forge/pandera
+    category: data-pipelines
   - name: pysparkling
     github_id: svenkreiss/pysparkling
     pypi_id: pysparkling
